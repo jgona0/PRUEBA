@@ -8,6 +8,9 @@ public class MainApp {
 		int num2= 20;
 		
 	}
+	
+	static void branchMain() {}
+	
 }
 
 
